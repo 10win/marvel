@@ -1,6 +1,5 @@
 import './appHeader.scss';
 import {Link, NavLink} from "react-router-dom";
-import comicsList from "../comicsList/ComicsList";
 
 const AppHeader = () => {
     return (
